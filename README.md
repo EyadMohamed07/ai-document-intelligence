@@ -27,7 +27,7 @@ A production-grade, hybrid client-server Document Intelligence application power
 ### 2. Local Frontend
 ```bash
 # Clone the repository
-git clone https://github.com/USERNAME/ai-document-intelligence.git
+git clone https://github.com/EyadMohamed07/ai-document-intelligence.git
 cd ai-document-intelligence
 
 # Install requirements
